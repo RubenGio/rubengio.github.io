@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Experiencia profesional
+author: Georgina Rubén Roque
+description: "Este blog permitirá reflejar mi experiencia profesional adquirida. Sírvase como portafolio."
+navbar-links:
+  About Me:"Estudié Ingeniería en sistemas computacionales en la Universidad Autónoma de Chihuahua"
+social-network-links:
+  email: "georginaruben97@protonmail.com"
+  github: RubenGio
